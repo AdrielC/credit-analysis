@@ -1,1 +1,3 @@
 # credit-analysis
+
+This dataset contains credit balance from several clients of a credit card company, along with several other characteristics of those clients. Credit card companies take losses when clients have too high, or too low of balances. Clients can declare bankruptcy when they are unable to pay their debts, but they allow for no accrued interest when the client?s balance is too low. The most profitable clients are those with a moderate credit card balance upon which interest can be charged. This is an introductory data exploration into the data to find some of the relationships between the provided demographics and credit card balance.
